@@ -1,0 +1,71 @@
+.model {
+
+	border: 5px double purple;
+	display: inline-block;
+	padding: 0px 20px;
+	border : center;
+	flex-wrap: wrap;
+	justify-content: center;
+	letter-spacing: 2px;
+	background-image: url("Desktop/SUBLIME/img img1.jpg")
+
+}
+
+hr {
+	width: 20rem;
+	border-width: 5px;
+}
+
+.cart {
+	text-align: right;
+}
+
+.space {
+	text-indent: 1rem;
+}
+
+.mid {
+	text-indent: 40rem;
+}
+
+.dm{
+	text-align: center;
+}
+.red:hover {
+	color: yellow;
+	background: pink;
+}
+
+.red1:hover {
+	color: brown;
+	background: pink;
+}
+.vilote:hover {
+	color: maroon;
+	background: pink;
+}
+
+h2 {
+	text-align: center;
+	text-shadow: 2px 2px;
+
+}
+
+body {
+	background: #669999;
+	background-size: cover;	
+	
+
+}
+
+span {
+	font-size: 20px;
+}
+
+.btu:hover {
+	background: black;
+	box-sizing: 10rem;
+	justify-content: space-around;
+	margin: 100px;
+}
+
